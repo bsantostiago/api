@@ -1,0 +1,106 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Programador Java Pleno"
+    },
+    {
+      "id": 2,
+      "titulo": "Analista Comercial"
+    },
+    {
+      "id": 3,
+      "titulo": "Instrutor Excel Avançado"
+    },
+    {
+      "id": 4,
+      "titulo": "Gerente de Projetos para .NET"
+    },
+    {
+      "id": 5,
+      "titulo": "Consultor de Desenvolvimento Agil"
+    },
+    {
+      "id": 6,
+      "titulo": "Programador VB.Net"
+    },
+    {
+      "id": 7,
+      "titulo": "Desenvolvedor Front-End"
+    }
+  ],
+  "candidatos": [
+    {
+      "nome": "Tiago",
+      "data": "1983-09-24",
+      "telefone": "11 2222 3333",
+      "email": "tiago@gmail.com",
+      "vaga": "Programador VB.Net",
+      "id": 1
+    },
+    {
+      "nome": "Jimmy Page",
+      "data": "2022-02-15",
+      "telefone": "11 2222 3333",
+      "email": "jimmy@led.com",
+      "vaga": "Instrutor Excel Avançado",
+      "id": 2
+    },
+    {
+      "nome": "Jon Oliva",
+      "data": "1954-10-10",
+      "telefone": "11 5555 7777",
+      "email": "jon@savatage.com",
+      "vaga": "Gerente de Projetos para .NET",
+      "id": 3
+    },
+    {
+      "nome": "Ozzy",
+      "data": "1966-06-06",
+      "telefone": "11 7777 3333",
+      "email": "ozzy@bs.com",
+      "vaga": "Instrutor Excel Avançado",
+      "id": 4
+    },
+    {
+      "nome": "Tiago",
+      "data": "1983-09-24",
+      "telefone": "11 2222 3333",
+      "email": "ozzy@bs.com",
+      "vaga": "Analista Comercial",
+      "id": 5
+    },
+    {
+      "nome": "Juliana",
+      "data": "1990-01-10",
+      "telefone": "1",
+      "email": "ju@gmail.com",
+      "vaga": "Gerente de Projetos para .NET",
+      "id": 6
+    },
+    {
+      "[object Object]": "",
+      "id": 7
+    },
+    {
+      "nome": "teste",
+      "data": "2022-12-31",
+      "telefone": "11 2222 3333",
+      "email": "jimmy@led.com",
+      "vaga": "Programador Java Pleno",
+      "id": 8
+    },
+    {
+      "[object Object]": "",
+      "id": 9
+    },
+    {
+      "nome": "Diego",
+      "data": "1990-10-10",
+      "telefone": "11 5555 7777",
+      "email": "diego@hotmail.com",
+      "vaga": "Programador VB.Net",
+      "id": 10
+    }
+  ]
+}
